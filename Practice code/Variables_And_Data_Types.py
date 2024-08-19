@@ -4,7 +4,7 @@ a = 1
 b = True
 c = "Aniket"
 d = None
-E = complex(8,3)    # complex is a Numeric data type int , float , complex 
+E = complex(8,3)    # complex is a Numeric data type int , float , complex   // it is a built in data type
 
 # To check  Data Type Typeof() Function Used
 
